@@ -23,7 +23,6 @@ public class LongXMLStringTest {
   XMLParser.Builder builder;
   Parser parser;
 
-
   @Before
   public void crateVariables() {
     builder = XMLParser.Builder.newParserBuilder();
